@@ -63633,8 +63633,8 @@ if(false) {}
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../assets/images/burger-logo.png */ "./resources/js/components/assets/images/burger-logo.png");
-/* harmony import */ var _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../assets/images/burger-logo.png */ "./resources/js/components/assets/images/burger-logo.png");
+/* harmony import */ var _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _Logo_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Logo.css */ "./resources/js/components/components/Logo/Logo.css");
 /* harmony import */ var _Logo_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Logo_css__WEBPACK_IMPORTED_MODULE_2__);
 
@@ -63645,7 +63645,7 @@ var Logo = function Logo() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "Logo"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    src: _assets_images_burger_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
     alt: "MyBurger"
   }));
 };
